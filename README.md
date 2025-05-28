@@ -18,6 +18,8 @@ This is a simple web-based counter app built with HTML, CSS, and JavaScript. The
   - `↑` to increase
   - `↓` to decrease
   - `Enter` to reset
+ 
+#Live Demo Try it out here: 🔗 Live Project on Vercel: https://counter-program-fawn.vercel.app/
 
 #Technologies Used
 - HTML
